@@ -3,7 +3,7 @@
 This repository is to build cell painting analysis workflow using the Axiom OASIS imaging data. The raw data file was retrieved from Ewald et al. (2026): https://github.com/jessica-ewald/2024_09_09_Axiom_OASIS
 
 
-[Workflow]
+[Workflow]  
 Preprocessing
 1. Feature-level/well QC, feature scaling and PCA
 2. Plate-level normalization (batch correction)
@@ -15,10 +15,11 @@ Downstream analysis
 2. Hit selection based on Mahalanobis distance
 3. Cosine similarity/clustering for hit compounds
 4. Dose-response modelling for hit compounds - Mahalanobis distance and cell count
-5. Specificity analysis to differentiate specific phenotypic changes from cytotoxicity
-What can be improved?
-- tcplfit2-style multi-model fitting (Hill, exponential, polynomial): apply diverse models for model fitting and choose the best model individually for each compound  help determine effect concentrations for more compounds 
-feature-level BMC (based on individual morphological feature) c.f. global BMC (used for this project; higher information loss)
+5. Specificity analysis to differentiate specific phenotypic changes from cytotoxicity
+
+What can be improved?  
+1. tcplfit2-style multi-model fitting (Hill, exponential, polynomial): apply diverse models for model fitting and choose the best model individually for each compound  help determine effect concentrations for more compounds 
+2. feature-level BMC (based on individual morphological feature) c.f. global BMC (used for this project; higher information loss)
  
 ### References
 Anthropic. 2026. Claude. Anthropic PBC, San Francisco, CA. Available at: https://claude.ai/?utm_source=chatgpt.com (accessed in May 2026).
