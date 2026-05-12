@@ -22,8 +22,8 @@ This repository is to build cell painting analysis workflow using the Axiom OASI
 2. feature-level BMC (based on individual morphological feature) c.f. global BMC (used for this project; higher information loss)
  
 ### References
-Anthropic. 2026. Claude. Anthropic PBC, San Francisco, CA. Available at: https://claude.ai/?utm_source=chatgpt.com (accessed in May 2026).
-Cimini, B. et al. 2023. Cell Painting Wiki. Carpenter-Singh Lab. Available at: https://github.com/carpenter-singh-lab/2023_Cimini_NatureProtocols/wiki.
-Ewald, J., Titterton, K., Bäuerle, A. et al. 2026. Cell Painting for cytotoxicity and mode-of-action analysis in primary human hepatocytes. Cell Systems.
-Moshkov, N., Becker, T., Yang, K., Horvath, P., Dancik, V., Wagner, B., Clemons, P., Singh, S., Carpenter, A., and Caicedo, J. 2023. Predicting compound activity from phenotypic profiles and chemical structures. Nature Communications 14, 1967.
+Anthropic. 2026. Claude. Anthropic PBC, San Francisco, CA. Available at: https://claude.ai/?utm_source=chatgpt.com (accessed in May 2026).  
+Cimini, B. et al. 2023. Cell Painting Wiki. Carpenter-Singh Lab. Available at: https://github.com/carpenter-singh-lab/2023_Cimini_NatureProtocols/wiki.  
+Ewald, J., Titterton, K., Bäuerle, A. et al. 2026. Cell Painting for cytotoxicity and mode-of-action analysis in primary human hepatocytes. Cell Systems.  
+Moshkov, N., Becker, T., Yang, K., Horvath, P., Dancik, V., Wagner, B., Clemons, P., Singh, S., Carpenter, A., and Caicedo, J. 2023. Predicting compound activity from phenotypic profiles and chemical structures. Nature Communications 14, 1967.  
 OpenAI. 2026. GPT-5, ChatGPT model. OpenAI, San Francisco, CA. Available at: ChatGPT (accessed in April 2026).
