@@ -2,7 +2,7 @@
 
 This repository is to build cell painting analysis workflow using the Axiom OASIS imaging data. The raw data file was retrieved from Ewald et al. (2026): https://github.com/jessica-ewald/2024_09_09_Axiom_OASIS
 
-GitHub notebook preview may fail due to file size.
+GitHub notebook preview may fail due to file size.  
 View rendered notebook on NBViewer:
 https://nbviewer.org/github/jungeun1228/2026_04_cell_painting_analysis_OASIS/blob/main/Cell_painting_analysis_OASIS.ipynb
 
